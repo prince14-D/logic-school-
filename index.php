@@ -178,14 +178,14 @@
 
       <div class="col-lg-6">
         <div class="ratio ratio-16x9 rounded overflow-hidden shadow">
-          <iframe src="https://www.youtube.com/embed/Eh_i8UBr7MQ?rel=0"
+          <iframe src="https://www.youtube.com/embed/Rdl2wjrnSos"
             title="Logic Demonstration School"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen></iframe>
         </div>
       </div>
 
-      <div class="col-lg-6">
+      <div class="col-lg-6 d-none d-lg-block">
         <h2 class="section-title mb-1">Why Choose Logic School?</h2>
         <p class="text-muted mb-4">We don't just teach — we shape futures.</p>
 
