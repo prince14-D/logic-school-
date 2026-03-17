@@ -50,7 +50,7 @@
   <div class="footer-bottom py-3">
     <div class="container d-flex flex-column flex-md-row justify-content-between align-items-center gap-2">
       <small>&copy; <?php echo date("Y"); ?> Logic Demonstration School. All Rights Reserved.</small>
-      <small>Developed by <strong>Tec Liberia</strong></small>
+      <small>Developed by <strong><a href="https://www.tecliberia.com" target="_blank" rel="noopener noreferrer" style="color:inherit;">Tec Liberia</a></strong></small>
     </div>
   </div>
 
