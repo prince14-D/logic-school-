@@ -50,14 +50,126 @@
   </div>
 </section>
 
+<section class="py-5 journey-section" data-animate>
+  <div class="container">
+    <h2 class="section-title text-center mb-2">Our Journey</h2>
+    <p class="text-center text-muted mb-5">Years of growth, dedication, and excellence.</p>
+    <div class="journey-timeline mx-auto">
+
+      <div class="journey-step">
+        <div class="journey-dot"><i class="bi bi-flag-fill"></i></div>
+        <div class="journey-card">
+          <span class="journey-year">2019</span>
+          <h6>Founded</h6>
+          <p class="mb-0">School officially established with early childhood classes, laying the foundation of quality education.</p>
+        </div>
+      </div>
+
+      <div class="journey-step journey-step-right">
+        <div class="journey-dot"><i class="bi bi-book-fill"></i></div>
+        <div class="journey-card">
+          <span class="journey-year">2021</span>
+          <h6>Expanded</h6>
+          <p class="mb-0">Successfully expanded into lower elementary levels, broadening opportunities for more students.</p>
+        </div>
+      </div>
+
+      <div class="journey-step">
+        <div class="journey-dot"><i class="bi bi-trophy-fill"></i></div>
+        <div class="journey-card">
+          <span class="journey-year">2023</span>
+          <h6>Milestones</h6>
+          <p class="mb-0">Celebrated major milestones in student enrollment and outstanding academic performance.</p>
+        </div>
+      </div>
+
+      <div class="journey-step journey-step-right">
+        <div class="journey-dot"><i class="bi bi-star-fill"></i></div>
+        <div class="journey-card">
+          <span class="journey-year">Today</span>
+          <h6>Still Growing</h6>
+          <p class="mb-0">Maintaining high academic success, strong parent trust, and a thriving school community.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ================= ADMINISTRATION ================= -->
+<section class="py-5 bg-light" data-animate>
+  <div class="container">
+    <h2 class="section-title text-center mb-2">Administration</h2>
+    <p class="text-center text-muted mb-5">The dedicated leaders who guide our school forward.</p>
+    <div class="row g-4 justify-content-center">
+
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="team-card text-center">
+          <img src="assets/images/logo.png" class="rounded-circle mb-3 team-photo" alt="Administrator">
+          <h6 class="mb-1">Administrator Name</h6>
+          <small class="text-muted">Principal</small>
+        </div>
+      </div>
+
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="team-card text-center">
+          <img src="assets/images/logo.png" class="rounded-circle mb-3 team-photo" alt="Administrator">
+          <h6 class="mb-1">Administrator Name</h6>
+          <small class="text-muted">Vice Principal</small>
+        </div>
+      </div>
+
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="team-card text-center">
+          <img src="assets/images/logo.png" class="rounded-circle mb-3 team-photo" alt="Administrator">
+          <h6 class="mb-1">Administrator Name</h6>
+          <small class="text-muted">Academic Dean</small>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ================= TEACHERS ================= -->
 <section class="py-5" data-animate>
   <div class="container">
-    <h2 class="section-title text-center mb-4">Our Journey</h2>
-    <div class="timeline mx-auto" style="max-width:760px;">
-      <div class="timeline-item"><h6>2019</h6><p class="mb-0">School officially established with early childhood classes.</p></div>
-      <div class="timeline-item"><h6>2021</h6><p class="mb-0">Expanded into lower elementary levels.</p></div>
-      <div class="timeline-item"><h6>2023</h6><p class="mb-0">Celebrated major milestones in enrollment and performance.</p></div>
-      <div class="timeline-item"><h6>Today</h6><p class="mb-0">Maintaining high academic success and strong parent trust.</p></div>
+    <h2 class="section-title text-center mb-2">Our Teachers</h2>
+    <p class="text-center text-muted mb-5">Passionate educators committed to every child's success.</p>
+    <div class="row g-4 justify-content-center">
+
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="team-card text-center">
+          <img src="assets/images/logo.png" class="rounded-circle mb-3 team-photo" alt="Teacher">
+          <h6 class="mb-1">Teacher Name</h6>
+          <small class="text-muted">Early Childhood</small>
+        </div>
+      </div>
+
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="team-card text-center">
+          <img src="assets/images/logo.png" class="rounded-circle mb-3 team-photo" alt="Teacher">
+          <h6 class="mb-1">Teacher Name</h6>
+          <small class="text-muted">Lower Elementary</small>
+        </div>
+      </div>
+
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="team-card text-center">
+          <img src="assets/images/logo.png" class="rounded-circle mb-3 team-photo" alt="Teacher">
+          <h6 class="mb-1">Teacher Name</h6>
+          <small class="text-muted">Upper Elementary</small>
+        </div>
+      </div>
+
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="team-card text-center">
+          <img src="assets/images/logo.png" class="rounded-circle mb-3 team-photo" alt="Teacher">
+          <h6 class="mb-1">Teacher Name</h6>
+          <small class="text-muted">Mathematics</small>
+        </div>
+      </div>
+
     </div>
   </div>
 </section>

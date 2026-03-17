@@ -93,17 +93,26 @@
   </div>
 </section>
 
-<section class="py-5" data-animate>
+<section class="py-5 proprietor-section" data-animate>
   <div class="container">
-    <div class="row align-items-center g-4">
-      <div class="col-md-6">
-        <img src="assets/images/logo.png" class="img-fluid rounded shadow" alt="School logo">
-      </div>
-      <div class="col-md-6">
-        <h2 class="section-title">Welcome To Logic School</h2>
-        <p>Logic Demonstration School was established in the 2019-2020 academic year with a mission to deliver quality education and shape future leaders.</p>
-        <p>We combine academic excellence with character development to prepare students for success in school and life.</p>
-        <a href="about.php" class="btn btn-school">Learn More About Us</a>
+    <div class="proprietor-wrap">
+      <div class="row g-4 align-items-center">
+        <div class="col-lg-5 text-center text-lg-start">
+          <div class="proprietor-photo-frame mx-auto mx-lg-0">
+            <img src="assets/images/logo.png" class="img-fluid proprietor-photo" alt="Proprietor portrait">
+          </div>
+        </div>
+        <div class="col-lg-7">
+          <span class="proprietor-kicker">Proprietor's Message</span>
+          <h2 class="section-title mb-3">A Welcome From The Proprietor</h2>
+          <p class="proprietor-text">At Logic Demonstration School, we believe every child deserves a safe and inspiring environment where excellence and values grow together.</p>
+          <p class="proprietor-text">Our mission is to nurture confident learners through quality teaching, discipline, creativity, and strong partnership with families and the community.</p>
+          <div class="proprietor-signature mt-3">
+            <h6 class="mb-0">Proprietor Name</h6>
+            <small>Proprietor, Logic Demonstration School</small>
+          </div>
+          <a href="about.php" class="btn btn-school mt-4">Read More About Our Vision</a>
+        </div>
       </div>
     </div>
   </div>
@@ -159,6 +168,205 @@
       <div class="col-md-4"><img src="assets/images/slider3.jpeg" class="gallery-img" alt="Activity three"></div>
     </div>
     <a href="gallery.php" class="btn btn-school mt-4">View Full Gallery</a>
+  </div>
+</section>
+
+<!-- ================= VIDEO + WHY CHOOSE US ================= -->
+<section class="py-5 bg-light" data-animate>
+  <div class="container">
+    <div class="row g-4 align-items-center">
+
+      <div class="col-lg-6">
+        <div class="ratio ratio-16x9 rounded overflow-hidden shadow">
+          <iframe src="https://www.youtube.com/embed/Eh_i8UBr7MQ?rel=0"
+            title="Logic Demonstration School"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen></iframe>
+        </div>
+      </div>
+
+      <div class="col-lg-6">
+        <h2 class="section-title mb-1">Why Choose Logic School?</h2>
+        <p class="text-muted mb-4">We don't just teach — we shape futures.</p>
+
+        <div class="why-list">
+          <div class="why-list-item">
+            <div class="why-list-icon"><i class="bi bi-patch-check-fill"></i></div>
+            <div>
+              <h6 class="mb-1">Quality Academic Programs</h6>
+              <p class="mb-0 text-muted">A structured curriculum from Early Childhood through Upper Elementary.</p>
+            </div>
+          </div>
+          <div class="why-list-item">
+            <div class="why-list-icon"><i class="bi bi-people-fill"></i></div>
+            <div>
+              <h6 class="mb-1">Experienced & Caring Staff</h6>
+              <p class="mb-0 text-muted">Qualified teachers dedicated to every child's growth and wellbeing.</p>
+            </div>
+          </div>
+          <div class="why-list-item">
+            <div class="why-list-icon"><i class="bi bi-shield-fill-check"></i></div>
+            <div>
+              <h6 class="mb-1">Safe & Nurturing Environment</h6>
+              <p class="mb-0 text-muted">A secure space where students feel valued, confident, and motivated.</p>
+            </div>
+          </div>
+          <div class="why-list-item">
+            <div class="why-list-icon"><i class="bi bi-heart-fill"></i></div>
+            <div>
+              <h6 class="mb-1">Values-Based Education</h6>
+              <p class="mb-0 text-muted">Love, unity, discipline, and peaceful co-existence woven into every lesson.</p>
+            </div>
+          </div>
+        </div>
+
+        <a href="about.php" class="btn btn-school mt-4">Discover More About Us</a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ================= ADMINISTRATION ================= -->
+<section class="py-5" data-animate>
+  <div class="container">
+    <h2 class="section-title text-center mb-2">Meet Our Administration</h2>
+    <p class="text-center text-muted mb-5">The dedicated leaders who guide our school every day.</p>
+    <div class="row g-4 justify-content-center">
+
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="admin-card text-center">
+          <div class="admin-photo-wrap">
+            <img src="assets/images/logo.png" class="team-photo" alt="Principal">
+          </div>
+          <h6 class="mt-3 mb-1">Administrator Name</h6>
+          <span class="admin-role">Principal</span>
+        </div>
+      </div>
+
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="admin-card text-center">
+          <div class="admin-photo-wrap">
+            <img src="assets/images/logo.png" class="team-photo" alt="Vice Principal">
+          </div>
+          <h6 class="mt-3 mb-1">Administrator Name</h6>
+          <span class="admin-role">Vice Principal</span>
+        </div>
+      </div>
+
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="admin-card text-center">
+          <div class="admin-photo-wrap">
+            <img src="assets/images/logo.png" class="team-photo" alt="Academic Dean">
+          </div>
+          <h6 class="mt-3 mb-1">Administrator Name</h6>
+          <span class="admin-role">Academic Dean</span>
+        </div>
+      </div>
+
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="admin-card text-center">
+          <div class="admin-photo-wrap">
+            <img src="assets/images/Business_manager.jpeg" class="team-photo" alt="Bursar">
+          </div>
+          <h6 class="mt-3 mb-1">Mrs. Meme Johnson Menyon </h6>
+          <span class="admin-role">Business Manager</span>
+        </div>
+      </div>
+
+    </div>
+    <div class="text-center mt-4">
+      <a href="about.php#administration" class="btn btn-outline-secondary">View Full Team</a>
+    </div>
+  </div>
+</section>
+
+<!-- ================= PARENT TESTIMONIALS ================= -->
+<section class="py-5 testimonial-section" data-animate>
+  <div class="container">
+    <h2 class="section-title text-center mb-2">What Parents Say</h2>
+    <p class="text-center text-muted mb-5">Hear from families who trust us with their children's education.</p>
+
+    <div class="row g-4">
+
+      <div class="col-md-4">
+        <div class="testimonial-card">
+          <div class="testimonial-quote"><i class="bi bi-quote"></i></div>
+          <p class="testimonial-text">"Logic School has transformed my child's confidence and love for learning. The teachers are caring and very professional."</p>
+          <div class="testimonial-author">
+            <img src="assets/images/logo.png" class="testimonial-avatar" alt="Parent">
+            <div>
+              <strong>Parent Name</strong>
+              <small class="d-block text-muted">Parent of Grade 3 Student</small>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="testimonial-card">
+          <div class="testimonial-quote"><i class="bi bi-quote"></i></div>
+          <p class="testimonial-text">"The values and discipline taught at Logic School are remarkable. My son has grown so much both academically and in character."</p>
+          <div class="testimonial-author">
+            <img src="assets/images/logo.png" class="testimonial-avatar" alt="Parent">
+            <div>
+              <strong>Parent Name</strong>
+              <small class="d-block text-muted">Parent of Grade 5 Student</small>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="testimonial-card">
+          <div class="testimonial-quote"><i class="bi bi-quote"></i></div>
+          <p class="testimonial-text">"I am proud to have my daughter enrolled here. The school genuinely cares about every child and it shows in the results."</p>
+          <div class="testimonial-author">
+            <img src="assets/images/logo.png" class="testimonial-avatar" alt="Parent">
+            <div>
+              <strong>Parent Name</strong>
+              <small class="d-block text-muted">Parent of Kindergarten Student</small>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- ================= DOWNLOADS ================= -->
+<section class="py-5 downloads-section" data-animate>
+  <div class="container">
+    <div class="downloads-wrap">
+      <div class="text-center mb-4">
+        <h2 class="section-title mb-2">Download School Documents</h2>
+        <p class="text-muted mb-0">Get the latest brochure and information sheet for admissions and programs.</p>
+      </div>
+      <div class="row g-4 justify-content-center">
+        <div class="col-md-6 col-lg-5">
+          <div class="download-card">
+            <div class="download-icon"><i class="bi bi-file-earmark-pdf-fill"></i></div>
+            <h5 class="mb-2">School Brochure</h5>
+            <p class="mb-3">Overview of our programs, facilities, and student life at Logic Demonstration School.</p>
+            <a href="assets/files/logic-school-brochure.pdf" class="btn btn-school" download>
+              <i class="bi bi-download me-1"></i> Download Brochure
+            </a>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-5">
+          <div class="download-card">
+            <div class="download-icon"><i class="bi bi-file-earmark-text-fill"></i></div>
+            <h5 class="mb-2">Information Sheet</h5>
+            <p class="mb-3">Quick facts on admission process, school calendar, contacts, and key requirements.</p>
+            <a href="assets/files/logic-school-information-sheet.pdf" class="btn btn-outline-secondary" download>
+              <i class="bi bi-download me-1"></i> Download Info Sheet
+            </a>
+          </div>
+        </div>
+      </div>
+      <p class="text-center text-muted small mt-4 mb-0">Need help? Call us at (+231) 886-126-154 for assistance.</p>
+    </div>
   </div>
 </section>
 
