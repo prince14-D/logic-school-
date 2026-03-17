@@ -237,9 +237,9 @@
       <div class="col-6 col-md-4 col-lg-3">
         <div class="admin-card text-center">
           <div class="admin-photo-wrap">
-            <img src="assets/images/logo.png" class="team-photo" alt="Principal">
+            <img src="assets/images/Princapal.jpeg" class="team-photo" alt="Principal">
           </div>
-          <h6 class="mt-3 mb-1">Administrator Name</h6>
+          <h6 class="mt-3 mb-1">Mr. Gabriel G. P. Zeekor </h6>
           <span class="admin-role">Principal</span>
         </div>
       </div>
@@ -247,19 +247,19 @@
       <div class="col-6 col-md-4 col-lg-3">
         <div class="admin-card text-center">
           <div class="admin-photo-wrap">
-            <img src="assets/images/logo.png" class="team-photo" alt="Vice Principal">
+            <img src="assets/images/SA.png" class="team-photo" alt="Vice Principal">
           </div>
-          <h6 class="mt-3 mb-1">Administrator Name</h6>
-          <span class="admin-role">Vice Principal</span>
+          <h6 class="mt-3 mb-1">Mr. G. Alphanso Menyon </h6>
+          <span class="admin-role">Chief Learning Officer</span>
         </div>
       </div>
 
       <div class="col-6 col-md-4 col-lg-3">
         <div class="admin-card text-center">
           <div class="admin-photo-wrap">
-            <img src="assets/images/logo.png" class="team-photo" alt="Academic Dean">
+            <img src="assets/images/Dean.jpeg" class="team-photo" alt="Academic Dean">
           </div>
-          <h6 class="mt-3 mb-1">Administrator Name</h6>
+          <h6 class="mt-3 mb-1">Ms. Joevina C. Grant</h6>
           <span class="admin-role">Academic Dean</span>
         </div>
       </div>
