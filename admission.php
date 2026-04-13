@@ -166,7 +166,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
           <h5 class="mb-3">Need Help?</h5>
           <p class="mb-3">Our admissions desk can help with forms, document preparation, and class placement guidance.</p>
           <p class="mb-2"><i class="bi bi-telephone-fill me-2"></i>(+231) 777-297-443</p>
-          <p class="mb-3"><i class="bi bi-envelope-fill me-2"></i>info@logicschool.com</p>
+          <p class="mb-3"><i class="bi bi-envelope-fill me-2"></i>info@logicatschool.com</p>
           <div class="d-grid gap-2">
             <a href="https://wa.me/231777297443?text=Hello%20Admissions%20Team,%20I%20need%20help%20with%20application." target="_blank" class="btn btn-success">Chat on WhatsApp</a>
             <a href="contact.php" class="btn btn-school-outline">Visit Contact Page</a>

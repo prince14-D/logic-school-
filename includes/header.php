@@ -46,6 +46,7 @@
                 <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
                 <li class="nav-item"><a class="nav-link" href="director.php">Director</a></li>
                 <li class="nav-item"><a class="nav-link" href="academics.php">Academics</a></li>
+                <li class="nav-item"><a class="nav-link" href="verification.php">Verification</a></li>
                 <li class="nav-item"><a class="nav-link" href="admission.php">Admissions</a></li>
                 <li class="nav-item"><a class="nav-link" href="gallery.php">Gallery</a></li>
                 <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>

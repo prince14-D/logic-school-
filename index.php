@@ -27,7 +27,7 @@
       </div>
 
       <div class="carousel-item">
-        <img src="assets/images/slider3.jpeg" class="d-block w-100 slider-img" alt="School values">
+        <img src="assets/images/banner7.jpeg" class="d-block w-100 slider-img" alt="School values">
         <div class="carousel-caption">
           <h1>Values and Excellence</h1>
           <p>Love, unity, discipline, and growth.</p>
@@ -159,13 +159,28 @@
   </div>
 </section>
 
+<section class="py-4" data-animate>
+  <div class="container">
+    <div class="verification-cta d-flex flex-column flex-lg-row align-items-center justify-content-between gap-3">
+      <div>
+        <h4 class="mb-1">Student Verification System</h4>
+        <p class="mb-0">Parents and students can verify official records using a unique school UID.</p>
+      </div>
+      <a href="verification.php" class="btn btn-school btn-lg">Verify Student Information</a>
+    </div>
+  </div>
+</section>
+
 <section class="gallery-section py-5" data-animate>
   <div class="container text-center">
     <h2 class="section-title">School Activities</h2>
     <div class="row g-3 mt-2">
       <div class="col-md-4"><img src="assets/images/slider1.jpeg" class="gallery-img" alt="Activity one"></div>
       <div class="col-md-4"><img src="assets/images/slider2.jpeg" class="gallery-img" alt="Activity two"></div>
-      <div class="col-md-4"><img src="assets/images/slider3.jpeg" class="gallery-img" alt="Activity three"></div>
+      <div class="col-md-4"><img src="assets/images/banner7.jpeg" class="gallery-img" alt="Activity three"></div>
+     <div class="col-md-4"><img src="assets/images/Activity photo2.jpeg" class="gallery-img" alt="Activity one"></div>
+      <div class="col-md-4"><img src="assets/images/Activity photo3.jpeg" class="gallery-img" alt="Activity two"></div>
+      <div class="col-md-4"><img src="assets/images/Activity photo4.jpeg" class="gallery-img" alt="Activity three"></div>
     </div>
     <a href="gallery.php" class="btn btn-school mt-4">View Full Gallery</a>
   </div>
@@ -178,8 +193,8 @@
 
       <div class="col-lg-6">
         <div class="ratio ratio-16x9 rounded overflow-hidden shadow">
-          <iframe src="https://www.youtube.com/embed/Rdl2wjrnSos"
-            title="Logic Demonstration School"
+          <iframe src="https://www.youtube.com/embed/SNQtms7IoTE" 
+            title="Logic-A Demonstration School"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen></iframe>
         </div>
@@ -294,9 +309,9 @@
           <div class="testimonial-quote"><i class="bi bi-quote"></i></div>
           <p class="testimonial-text">"Logic School has transformed my child's confidence and love for learning. The teachers are caring and very professional."</p>
           <div class="testimonial-author">
-            <img src="assets/images/logo.png" class="testimonial-avatar" alt="Parent">
+            <img src="assets/images/Mrs. Sandra N. Banks.jpeg" class="testimonial-avatar" alt="Parent">
             <div>
-              <strong>Parent Name</strong>
+              <strong>Mrs. Sandra N. Banks</strong>
               <small class="d-block text-muted">Parent of Grade 3 Student</small>
             </div>
           </div>
@@ -308,9 +323,9 @@
           <div class="testimonial-quote"><i class="bi bi-quote"></i></div>
           <p class="testimonial-text">"The values and discipline taught at Logic School are remarkable. My son has grown so much both academically and in character."</p>
           <div class="testimonial-author">
-            <img src="assets/images/logo.png" class="testimonial-avatar" alt="Parent">
+            <img src="assets/images/Patience Mataley.jpeg" class="testimonial-avatar" alt="Parent">
             <div>
-              <strong>Parent Name</strong>
+              <strong>Patience Mataley</strong>
               <small class="d-block text-muted">Parent of Grade 5 Student</small>
             </div>
           </div>
@@ -322,9 +337,9 @@
           <div class="testimonial-quote"><i class="bi bi-quote"></i></div>
           <p class="testimonial-text">"I am proud to have my daughter enrolled here. The school genuinely cares about every child and it shows in the results."</p>
           <div class="testimonial-author">
-            <img src="assets/images/logo.png" class="testimonial-avatar" alt="Parent">
+            <img src="assets/images/Rebecca T. Telo.jpeg" class="testimonial-avatar" alt="Parent">
             <div>
-              <strong>Parent Name</strong>
+              <strong>Rebecca T. Telo</strong>
               <small class="d-block text-muted">Parent of Kindergarten Student</small>
             </div>
           </div>

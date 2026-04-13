@@ -132,7 +132,8 @@
           <img src="assets/images/Business_manager.jpeg" class="rounded-circle mb-3 team-photo" alt="Administrator">
           <h6 class="mb-1">Mrs. Meme Johnson Menyon</h6>
           <small class="text-muted">Business Manager</small>
-
+        </div>
+      </div>
     </div>
   </div>
 </section>
@@ -175,19 +176,29 @@
           <small class="text-muted">Teacher</small>
         </div>
       </div>
-       <div class="col-6 col-md-4 col-lg-3">
+      <div class="col-6 col-md-4 col-lg-3">
         <div class="team-card text-center">
           <img src="assets/images/Teacher3.jpeg" class="rounded-circle mb-3 team-photo" alt="Teacher">
           <h6 class="mb-1">MMs. Erika Yah</h6>
           <small class="text-muted">Teacher</small>
         </div>
       </div>
-       <div class="col-6 col-md-4 col-lg-3">
+
+      <div class="col-6 col-md-4 col-lg-3">
         <div class="team-card text-center">
           <img src="assets/images/Teacher4.jpeg" class="rounded-circle mb-3 team-photo" alt="Teacher">
           <h6 class="mb-1">Ms. Lovatta Wilie </h6>
           <small class="text-muted">Teacher</small>
         </div>
+      </div>
+
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="team-card text-center">
+          <img src="assets/images/Teacher5.jpeg" class="rounded-circle mb-3 team-photo" alt="Teacher">
+          <h6 class="mb-1">Mr. Urias Komoteh </h6>
+          <small class="text-muted">Teacher</small>
+        </div>
+      </div>
 
     </div>
   </div>
