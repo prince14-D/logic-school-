@@ -5,7 +5,7 @@
       <div class="col-lg-4">
         <div class="d-flex align-items-center gap-2 mb-3">
           <img src="assets/images/logo.png" alt="Logic School Logo" width="48" height="48" class="rounded-circle">
-          <h5 class="fw-bold mb-0">Logic Demonstration School</h5>
+          <h5 class="fw-bold mb-0">Logic-A Demonstration School</h5>
         </div>
         <p class="mb-2">Building strong academic foundations with discipline, creativity, and values.</p>
         <p class="mb-0"><strong>Motto:</strong> Come As A Student, Leave As A Student</p>
@@ -27,20 +27,20 @@
           <li><a href="director.php">Director</a></li>
           <li><a href="gallery.php">Gallery</a></li>
           <li><a href="contact.php">Contact</a></li>
-          <li><a href="https://portal.nbcdejhs.com/login.php" target="_blank">E-Portal</a></li>
+          <li><a href="https://portal.logicatschool.com/login.php" target="_blank">E-Portal</a></li>
         </ul>
       </div>
 
       <div class="col-lg-4">
         <h6 class="footer-title">Contact Info</h6>
         <p class="mb-2"><i class="bi bi-geo-alt-fill me-2"></i>Block C, Pagos Island, Congo Town, Liberia</p>
-        <p class="mb-2"><i class="bi bi-telephone-fill me-2"></i>(+231) 886-126-154</p>
-        <p class="mb-3"><i class="bi bi-envelope-fill me-2"></i>info@logicschool.edu.lr</p>
+        <p class="mb-2"><i class="bi bi-telephone-fill me-2"></i>(+231) 777-297-443</p>
+        <p class="mb-3"><i class="bi bi-envelope-fill me-2"></i>info@logicatschool.com</p>
 
         <div class="footer-social d-flex gap-2">
-          <a href="tel:+231886126154" aria-label="Call"><i class="bi bi-telephone-fill"></i></a>
-          <a href="mailto:info@logicschool.edu.lr" aria-label="Email"><i class="bi bi-envelope-fill"></i></a>
-          <a href="https://wa.me/231886126154" target="_blank" aria-label="WhatsApp"><i class="bi bi-whatsapp"></i></a>
+          <a href="tel:+231777297443" aria-label="Call"><i class="bi bi-telephone-fill"></i></a>
+          <a href="mailto:info@logicatschool.com" aria-label="Email"><i class="bi bi-envelope-fill"></i></a>
+          <a href="https://wa.me/231777297443" target="_blank" aria-label="WhatsApp"><i class="bi bi-whatsapp"></i></a>
         </div>
       </div>
 
@@ -49,7 +49,7 @@
 
   <div class="footer-bottom py-3">
     <div class="container d-flex flex-column flex-md-row justify-content-between align-items-center gap-2">
-      <small>&copy; <?php echo date("Y"); ?> Logic Demonstration School. All Rights Reserved.</small>
+      <small>&copy; <?php echo date("Y"); ?> Logic- A Demonstration School. All Rights Reserved.</small>
       <small>Developed by <strong><a href="https://www.tecliberia.com" target="_blank" rel="noopener noreferrer" style="color:inherit;">Tec Liberia</a></strong></small>
     </div>
   </div>

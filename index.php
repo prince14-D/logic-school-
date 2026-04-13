@@ -99,17 +99,17 @@
       <div class="row g-4 align-items-center">
         <div class="col-lg-5 text-center text-lg-start">
           <div class="proprietor-photo-frame mx-auto mx-lg-0">
-            <img src="assets/images/logo.png" class="img-fluid proprietor-photo" alt="Proprietor portrait">
+            <img src="assets/images/SA.png" class="img-fluid proprietor-photo" alt="Proprietor portrait">
           </div>
         </div>
         <div class="col-lg-7">
-          <span class="proprietor-kicker">Proprietor's Message</span>
-          <h2 class="section-title mb-3">A Welcome From The Proprietor</h2>
-          <p class="proprietor-text">At Logic Demonstration School, we believe every child deserves a safe and inspiring environment where excellence and values grow together.</p>
+          <span class="proprietor-kicker">Chief Learning Officer Message</span>
+          <h2 class="section-title mb-3">A Welcome From The Chief Learning Officer</h2>
+          <p class="proprietor-text">At Logic- A Demonstration School, we believe every child deserves a safe and inspiring environment where excellence and values grow together.</p>
           <p class="proprietor-text">Our mission is to nurture confident learners through quality teaching, discipline, creativity, and strong partnership with families and the community.</p>
           <div class="proprietor-signature mt-3">
-            <h6 class="mb-0">Proprietor Name</h6>
-            <small>Proprietor, Logic Demonstration School</small>
+            <h6 class="mb-0">Mr. G. Alphanso Menyon</h6>
+            <small>Chief Learning Officer, Logic- A Demonstration School</small>
           </div>
           <a href="about.php" class="btn btn-school mt-4">Read More About Our Vision</a>
         </div>
@@ -348,7 +348,7 @@
           <div class="download-card">
             <div class="download-icon"><i class="bi bi-file-earmark-pdf-fill"></i></div>
             <h5 class="mb-2">School Brochure</h5>
-            <p class="mb-3">Overview of our programs, facilities, and student life at Logic Demonstration School.</p>
+            <p class="mb-3">Overview of our programs, facilities, and student life at Logic-A Demonstration School.</p>
             <a href="assets/files/logic-school-brochure.pdf" class="btn btn-school" download>
               <i class="bi bi-download me-1"></i> Download Brochure
             </a>

@@ -15,7 +15,7 @@
       </div>
       <div class="col-md-6">
         <h2 class="section-title">Who We Are</h2>
-        <p>Logic Demonstration School was founded in the 2019-2020 academic year to provide quality education that blends strong academics with positive values.</p>
+        <p>Logic- A Demonstration School was founded in the 2019-2020 academic year to provide quality education that blends strong academics with positive values.</p>
         <p>From humble beginnings, we have grown into a trusted learning community where children are empowered to learn, lead, and succeed.</p>
       </div>
     </div>
@@ -105,27 +105,33 @@
 
       <div class="col-6 col-md-4 col-lg-3">
         <div class="team-card text-center">
-          <img src="assets/images/logo.png" class="rounded-circle mb-3 team-photo" alt="Administrator">
-          <h6 class="mb-1">Administrator Name</h6>
+          <img src="assets/images/Princapal.jpeg" class="rounded-circle mb-3 team-photo" alt="Administrator">
+          <h6 class="mb-1">Mr. Gabriel G. P. Zeekor</h6>
           <small class="text-muted">Principal</small>
         </div>
       </div>
 
       <div class="col-6 col-md-4 col-lg-3">
         <div class="team-card text-center">
-          <img src="assets/images/logo.png" class="rounded-circle mb-3 team-photo" alt="Administrator">
-          <h6 class="mb-1">Administrator Name</h6>
-          <small class="text-muted">Vice Principal</small>
+          <img src="assets/images/SA.png" class="rounded-circle mb-3 team-photo" alt="Administrator">
+          <h6 class="mb-1">Mr. G. Alphanso Menyon</h6>
+          <small class="text-muted">Chief Learning Officer</small>
         </div>
       </div>
 
       <div class="col-6 col-md-4 col-lg-3">
         <div class="team-card text-center">
-          <img src="assets/images/logo.png" class="rounded-circle mb-3 team-photo" alt="Administrator">
-          <h6 class="mb-1">Administrator Name</h6>
+          <img src="assets/images/Dean.jpeg" class="rounded-circle mb-3 team-photo" alt="Administrator">
+          <h6 class="mb-1">Ms. Joevina C. Grant</h6>
           <small class="text-muted">Academic Dean</small>
         </div>
       </div>
+
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="team-card text-center">
+          <img src="assets/images/Business_manager.jpeg" class="rounded-circle mb-3 team-photo" alt="Administrator">
+          <h6 class="mb-1">Mrs. Meme Johnson Menyon</h6>
+          <small class="text-muted">Business Manager</small>
 
     </div>
   </div>
@@ -140,35 +146,48 @@
 
       <div class="col-6 col-md-4 col-lg-3">
         <div class="team-card text-center">
-          <img src="assets/images/logo.png" class="rounded-circle mb-3 team-photo" alt="Teacher">
-          <h6 class="mb-1">Teacher Name</h6>
-          <small class="text-muted">Early Childhood</small>
+          <img src="assets/images/TC.jpeg" class="rounded-circle mb-3 team-photo" alt="Teacher">
+          <h6 class="mb-1">Ms. Janet Garglahn </h6>
+          <small class="text-muted">Teacher's Coordinator</small>
         </div>
       </div>
 
       <div class="col-6 col-md-4 col-lg-3">
         <div class="team-card text-center">
-          <img src="assets/images/logo.png" class="rounded-circle mb-3 team-photo" alt="Teacher">
-          <h6 class="mb-1">Teacher Name</h6>
-          <small class="text-muted">Lower Elementary</small>
+          <img src="assets/images/SPM.jpeg" class="rounded-circle mb-3 team-photo" alt="Teacher">
+          <h6 class="mb-1">Mr. Searwah Allmie Menyon </h6>
+          <small class="text-muted">Senior Program Manager</small>
         </div>
       </div>
 
       <div class="col-6 col-md-4 col-lg-3">
         <div class="team-card text-center">
-          <img src="assets/images/logo.png" class="rounded-circle mb-3 team-photo" alt="Teacher">
-          <h6 class="mb-1">Teacher Name</h6>
-          <small class="text-muted">Upper Elementary</small>
+          <img src="assets/images/Teacher1.jpeg" class="rounded-circle mb-3 team-photo" alt="Teacher">
+          <h6 class="mb-1">Mr. Jerry Padmore</h6>
+          <small class="text-muted">Teacher</small>
         </div>
       </div>
 
       <div class="col-6 col-md-4 col-lg-3">
         <div class="team-card text-center">
-          <img src="assets/images/logo.png" class="rounded-circle mb-3 team-photo" alt="Teacher">
-          <h6 class="mb-1">Teacher Name</h6>
-          <small class="text-muted">Mathematics</small>
+          <img src="assets/images/Teacher2.jpeg" class="rounded-circle mb-3 team-photo" alt="Teacher">
+          <h6 class="mb-1">Mr. Bill Clinton</h6>
+          <small class="text-muted">Teacher</small>
         </div>
       </div>
+       <div class="col-6 col-md-4 col-lg-3">
+        <div class="team-card text-center">
+          <img src="assets/images/Teacher3.jpeg" class="rounded-circle mb-3 team-photo" alt="Teacher">
+          <h6 class="mb-1">MMs. Erika Yah</h6>
+          <small class="text-muted">Teacher</small>
+        </div>
+      </div>
+       <div class="col-6 col-md-4 col-lg-3">
+        <div class="team-card text-center">
+          <img src="assets/images/Teacher4.jpeg" class="rounded-circle mb-3 team-photo" alt="Teacher">
+          <h6 class="mb-1">Ms. Lovatta Wilie </h6>
+          <small class="text-muted">Teacher</small>
+        </div>
 
     </div>
   </div>

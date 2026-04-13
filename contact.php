@@ -14,12 +14,12 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
             $error = "Invalid email format.";
         } else {
-            $to = "info@logicschool.edu.lr";
+            $to = "info@logicschool.com";
             $email_subject = "Contact Form: $subject";
 
             $body = "\nNew Contact Message:\n\nName: $name\nEmail: $email\nSubject: $subject\n\nMessage:\n$message\n";
 
-            $headers = "From: no-reply@logicschool.edu.lr\r\n";
+            $headers = "From: no-reply@logicatschool.com\r\n";
             $headers .= "Reply-To: $email\r\n";
 
             mail($to, $email_subject, $body, $headers);
@@ -45,10 +45,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <div class="contact-card">
           <h3 class="section-title">Get In Touch</h3>
           <p><strong>Address:</strong><br>Block C, Pagos Island, Congo Town, Liberia</p>
-          <p><strong>Phone:</strong><br>(+231) 886-126-154</p>
-          <p><strong>Email:</strong><br>info@logicschool.edu.lr</p>
+          <p><strong>Phone:</strong><br>(+231) 777-297-443</p>
+          <p><strong>Email:</strong><br>info@logicatschool.com</p>
           <p><strong>Office Hours:</strong><br>Monday - Friday: 8:00 AM - 4:00 PM</p>
-          <a href="https://wa.me/231886126154?text=Hello%20Logic%20School,%20I%20need%20more%20information." class="btn btn-success" target="_blank">Chat on WhatsApp</a>
+          <a href="https://wa.me/231777297443?text=Hello%20Logic%20School,%20I%20need%20more%20information." class="btn btn-success" target="_blank">Chat on WhatsApp</a>
         </div>
       </div>
 

@@ -44,7 +44,7 @@
     <div class="row justify-content-center mt-3">
       <div class="col-lg-8">
         <div class="ratio ratio-16x9 shadow rounded overflow-hidden">
-          <iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="School Video" allowfullscreen></iframe>
+          <iframe src="https://www.youtube.com/embed/Rdl2wjrnSos" title="School Video" allowfullscreen></iframe>
         </div>
       </div>
     </div>

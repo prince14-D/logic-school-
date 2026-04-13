@@ -108,6 +108,20 @@ a {
     color: var(--white);
 }
 
+.btn-school-outline {
+    background: transparent;
+    color: var(--purple-700);
+    border: 1px solid var(--purple-700);
+    border-radius: 8px;
+    padding: 10px 18px;
+    transition: 0.25s ease;
+}
+
+.btn-school-outline:hover {
+    background: var(--purple-700);
+    color: var(--white);
+}
+
 /* ================= HERO ================= */
 .slider-img {
     height: 85vh;
@@ -225,6 +239,89 @@ a {
     border: 3px solid var(--purple-700);
 }
 
+/* ================= ADMISSION PAGE ================= */
+.admission-mini-card i {
+    font-size: 1.5rem;
+    color: var(--purple-700);
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.admission-checklist li {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+    color: #3e3e3e;
+}
+
+.admission-checklist i {
+    color: #1ea567;
+}
+
+.admission-dates li {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+    border-bottom: 1px dashed rgba(75, 0, 130, 0.2);
+    padding: 9px 0;
+}
+
+.admission-dates li:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.admission-dates li span {
+    color: #525252;
+}
+
+.admission-dates li strong {
+    color: var(--purple-900);
+    text-align: right;
+}
+
+.admission-process-card {
+    position: relative;
+}
+
+.admission-process-card .step {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--purple-700);
+    background: rgba(75, 0, 130, 0.1);
+    border-radius: 999px;
+    padding: 4px 10px;
+    margin-bottom: 8px;
+}
+
+.admission-process-card h6 {
+    margin-bottom: 6px;
+}
+
+.admission-process-card p {
+    color: #585858;
+}
+
+.admission-help-card {
+    background: linear-gradient(180deg, #ffffff 0%, #f7f2fc 100%);
+}
+
+@media (max-width: 768px) {
+    .admission-dates li {
+        flex-direction: column;
+        gap: 4px;
+    }
+
+    .admission-dates li strong {
+        text-align: left;
+    }
+}
+
 .proprietor-section {
     background: linear-gradient(160deg, #f2ebfb 0%, #ffffff 60%);
 }
@@ -305,6 +402,150 @@ a {
     border-left: 3px solid var(--purple-700);
     padding-left: 14px;
     margin-bottom: 18px;
+}
+
+/* ================= ACADEMIC CALENDAR ================= */
+.school-calendar-wrap {
+    background: linear-gradient(180deg, #ffffff 0%, #f7f2fc 100%);
+    border: 1px solid rgba(75, 0, 130, 0.12);
+    border-radius: 16px;
+    box-shadow: var(--shadow-sm);
+    padding: 22px;
+}
+
+.calendar-month-card {
+    background: var(--white);
+    border: 1px solid rgba(75, 0, 130, 0.12);
+    border-radius: 14px;
+    box-shadow: var(--shadow-sm);
+    overflow: hidden;
+}
+
+.calendar-carousel {
+    padding: 0 42px;
+}
+
+.calendar-carousel .carousel-control-prev,
+.calendar-carousel .carousel-control-next {
+    width: 36px;
+    opacity: 1;
+}
+
+.calendar-carousel .carousel-control-prev-icon,
+.calendar-carousel .carousel-control-next-icon {
+    background-color: var(--purple-700);
+    border-radius: 50%;
+    background-size: 55% 55%;
+    width: 34px;
+    height: 34px;
+}
+
+.calendar-month-head {
+    background: linear-gradient(135deg, var(--purple-700), var(--purple-900));
+    color: var(--white);
+    padding: 12px 14px;
+}
+
+.calendar-month-head small {
+    opacity: 0.9;
+}
+
+.calendar-table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+.calendar-table th,
+.calendar-table td {
+    border: 1px solid #ebe5f3;
+    text-align: center;
+    padding: 10px 6px;
+    font-size: 0.9rem;
+}
+
+.calendar-table th {
+    background: #f4ecfb;
+    color: var(--purple-900);
+    font-weight: 700;
+    font-size: 0.82rem;
+}
+
+.calendar-table td:empty {
+    background: #fafafa;
+}
+
+.event-day {
+    position: relative;
+    font-weight: 700;
+    color: #1f1f1f;
+}
+
+.event-day::after {
+    content: "";
+    position: absolute;
+    bottom: 6px;
+    left: 50%;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    transform: translateX(-50%);
+    background: var(--purple-700);
+}
+
+.term-one::after,
+.legend-dot.term-one {
+    background: #6a0dad;
+}
+
+.term-two::after,
+.legend-dot.term-two {
+    background: #1e78d7;
+}
+
+.term-three::after,
+.legend-dot.term-three {
+    background: #009c6f;
+}
+
+.calendar-side-info {
+    position: sticky;
+    top: 90px;
+}
+
+.calendar-legend li {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 7px;
+}
+
+.legend-dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.calendar-events li {
+    font-size: 0.9rem;
+    line-height: 1.45;
+    margin-bottom: 8px;
+}
+
+@media (max-width: 991px) {
+    .calendar-side-info {
+        position: static;
+    }
+
+    .calendar-carousel {
+        padding: 0 8px;
+    }
+
+    .calendar-carousel .carousel-control-prev,
+    .calendar-carousel .carousel-control-next {
+        width: 30px;
+    }
 }
 
 /* ================= WHY LIST ================= */
