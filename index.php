@@ -282,10 +282,10 @@
       <div class="col-6 col-md-4 col-lg-3">
         <div class="admin-card text-center">
           <div class="admin-photo-wrap">
-            <img src="assets/images/Business_manager.jpeg" class="team-photo" alt="Bursar">
+            <img src="assets/images/Mr. James M. Folley .jpeg" class="team-photo" alt="Bursar">
           </div>
-          <h6 class="mt-3 mb-1">Mrs. Meme Johnson Menyon </h6>
-          <span class="admin-role">Business Manager</span>
+          <h6 class="mt-3 mb-1">Mr. James M. Folley </h6>
+          <span class="admin-role">Vice Principal For Instructions</span>
         </div>
       </div>
 

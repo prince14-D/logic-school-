@@ -143,9 +143,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
               <div class="col-md-6">
                 <select name="class" class="form-select" required>
                   <option value="">Select Class *</option>
-                  <option>Daycare</option>
+                  <option>ABC & Daycare</option>
                   <option>Pre-Nursery</option>
-                  <option>Kindergarten</option>
+                  <option>Kindergarten- I</option>
+                  <option>Kindergarten- II</option>
                   <option>Grade 1</option>
                   <option>Grade 2</option>
                   <option>Grade 3</option>

@@ -129,9 +129,9 @@
 
       <div class="col-6 col-md-4 col-lg-3">
         <div class="team-card text-center">
-          <img src="assets/images/Business_manager.jpeg" class="rounded-circle mb-3 team-photo" alt="Administrator">
-          <h6 class="mb-1">Mrs. Meme Johnson Menyon</h6>
-          <small class="text-muted">Business Manager</small>
+          <img src="assets/images/Mr. James M. Folley .jpeg" class="rounded-circle mb-3 team-photo" alt="Administrator">
+          <h6 class="mb-1">Mr. James M. Folley</h6>
+          <small class="text-muted">Vice Principal For Instructions</small>
         </div>
       </div>
     </div>
@@ -141,7 +141,7 @@
 <!-- ================= TEACHERS ================= -->
 <section class="py-5" data-animate>
   <div class="container">
-    <h2 class="section-title text-center mb-2">Our Teachers</h2>
+    <h2 class="section-title text-center mb-2">Our Teachers & Staff</h2>
     <p class="text-center text-muted mb-5">Passionate educators committed to every child's success.</p>
     <div class="row g-4 justify-content-center">
 
@@ -196,6 +196,22 @@
         <div class="team-card text-center">
           <img src="assets/images/Teacher5.jpeg" class="rounded-circle mb-3 team-photo" alt="Teacher">
           <h6 class="mb-1">Mr. Urias Komoteh </h6>
+          <small class="text-muted">Teacher</small>
+        </div>
+      </div>
+
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="team-card text-center">
+          <img src="assets/images/Business_manager.jpeg" class="rounded-circle mb-3 team-photo" alt="Teacher">
+          <h6 class="mb-1">Mrs. Meme Johnson Menyon</h6>
+          <small class="text-muted">Business Manager</small>
+        </div>
+      </div>
+
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="team-card text-center">
+          <img src="assets/images/Mr. Victor S. William .jpeg" class="rounded-circle mb-3 team-photo" alt="Teacher">
+          <h6 class="mb-1">Mr. Victor S. William </h6>
           <small class="text-muted">Teacher</small>
         </div>
       </div>
